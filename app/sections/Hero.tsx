@@ -54,7 +54,7 @@ export default function Hero() {
                   <p className="text-gray-600 text-xs mt-2">400x400 px recomendado</p>
                 </div>
                 <Image 
-                  src="/Dary2.jpeg" 
+                  src="/Dry3.jpeg" 
                   alt="Dary Fernández" 
                   fill
                   className="object-cover rounded-2xl"
