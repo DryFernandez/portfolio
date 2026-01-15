@@ -23,6 +23,14 @@ const experiences: Experience[] = [
   },
   
   // Educación
+    {
+    id: 7,
+    type: 'education',
+    title: "Técnico superior en desarrollo de software",
+    institution: "Instituto Tecnológico de las Américas (ITLA)",
+    period: "Actualmente",
+    description: "Formación técnica superior orientada al diseño, desarrollo e implementación de aplicaciones de software, incluyendo sistemas web, móviles y de escritorio. Enfoque en programación, bases de datos, arquitectura de software, buenas prácticas, trabajo en equipo y uso de tecnologías modernas aplicadas a entornos empresariales."
+  },
   {
     id: 3,
     type: 'education',
