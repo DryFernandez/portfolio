@@ -10,7 +10,7 @@ const experiences: Experience[] = [
     type: 'work',
     title: "Administrador de base de datos ",
     institution: "Red bajas",
-    period: "09/2025 - Presente",
+    period: "08/2025 - Presente",
     description: "Manejo de bases de datos, desarrollo de aplicaciones web, integraciones con inteligencia artificial y creación de flujos de trabajo en n8n."
   },
   {

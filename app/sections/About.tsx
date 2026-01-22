@@ -21,7 +21,7 @@ export default function About() {
             <p className="text-gray-400 leading-relaxed">
               Manejo herramientas de control de versiones y entornos de desarrollo modernos, con 
               gran capacidad de aprendizaje y adaptación a nuevas tecnologías. Actualmente trabajo 
-              como Administrador de base de datos en Color Visión, donde desarrollo aplicaciones web 
+              como Administrador de base de datos en Red Bajas, donde desarrollo aplicaciones web 
               e integraciones con inteligencia artificial.
             </p>
           </div>
