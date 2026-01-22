@@ -51,6 +51,13 @@ const projects: Project[] = [
     technologies: ['Desktop', "Electron", "React", "MySQL", "TypeScript", "Vite"],
     github: "https://github.com/DryFernandez/DryDB",
     image: "/projects/Drydb.png"
+  },
+    {
+      id: 8,
+    title: "Chat personal en Telegram",
+    description: "Chat personal automatizado en Telegram desarrollado con n8n y Docker, integrado con Gemini como motor de IA. Utiliza webhooks expuestos con ngrok para procesar mensajes en tiempo real y generar respuestas inteligentes dentro del chat.",
+    technologies: ['n8n', "Telegram", "Gemini", "Docker", "Negrok"],
+    image: "/projects/Chat-personal.png"
   }
 ];
 
